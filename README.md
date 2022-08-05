@@ -1,4 +1,4 @@
-![StarGazers Logo](images/logo_stargazers_bug.svg)
+<img src="images/logo_stargazers_bug.svg" alt="StarGazers Logo">
 
 # StarGazers
 
