@@ -31,7 +31,7 @@ Aneirin is the foremost expert of cold climates in planetoids universe-wide, wit
 | **Dream Job Title**            | Private Island Caretaker              |
 | **Singing Voice**              | alto                                  |
 
-# Celestia Dristi"
+# Celestia Dristi
 <img src="images/celestia-dristi_tn.svg" width="200" alt="Celestia Dristi">
 
 As a mobility engineer, Celestia Dristi helps individuals and companies to improve personal and professional agility and growth in technology and systems. An expert in translating and implementing needs into functionality, Celestia Dristi has a unique proclivity for solving problems and helping to avoid future issues.
